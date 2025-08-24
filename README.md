@@ -33,6 +33,7 @@ CNN_Classification/
 
 2. **Install dependencies:**  
    Make sure you have Python 3.7+ and install the required packages:
+
    ```sh
    pip install tensorflow keras
    ```
@@ -76,4 +77,4 @@ CNN_Classification/
 
 ---
 
-*This notebook is for learning and experimentation purposes only.*
+_This notebook is for learning and experimentation purposes only._
