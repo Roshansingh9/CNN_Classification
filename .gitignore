@@ -1,0 +1,4 @@
+# Ignore training and testing datasets
+train/
+test/
+dogs_vs_cats/
